@@ -1,0 +1,6 @@
+2016-11-23T04:34:50+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '<' not found  in /var/www/localmagento/lib/Varien/Simplexml/Config.php on line 510
+2016-11-23T04:34:54+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '<' not found  in /var/www/localmagento/lib/Varien/Simplexml/Config.php on line 510
+2016-11-23T04:34:59+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '<' not found  in /var/www/localmagento/lib/Varien/Simplexml/Config.php on line 510
+2016-11-23T04:34:59+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '<' not found  in /var/www/localmagento/lib/Varien/Simplexml/Config.php on line 510
+2016-11-23T04:35:03+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '<' not found  in /var/www/localmagento/lib/Varien/Simplexml/Config.php on line 510
+2016-11-23T04:35:05+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '<' not found  in /var/www/localmagento/lib/Varien/Simplexml/Config.php on line 510
