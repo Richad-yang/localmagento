@@ -56,12 +56,12 @@ media/sitemap/photography_uk/*
 media/woger_imageslider/*
 skin/frontend/beanbag/beanbag_it/images/.goutputstream-EIJCWV
 tests/config.ini
-var/cache
+var/cache/*
 var/export
 var/import
 var/locks
-var/log
+var/log/*
 var/report
 var/session
 var/tmp
-/var
+/var/
