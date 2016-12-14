@@ -4,7 +4,8 @@ class Alanstormdotcom_Helloworld_IndexController extends Mage_Core_Controller_Fr
 		echo 'Hello Index!';
 	}
 	public function goodbyeAction() {
-		echo 'Goodbye World!';
+		$this->loadLayout();
+		$this->renderLayout();
 	}
 	public function paramsAction() {
 		echo '<dl>';

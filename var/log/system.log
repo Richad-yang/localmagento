@@ -4,3 +4,9 @@
 2016-11-23T04:34:59+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '<' not found  in /var/www/localmagento/lib/Varien/Simplexml/Config.php on line 510
 2016-11-23T04:35:03+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '<' not found  in /var/www/localmagento/lib/Varien/Simplexml/Config.php on line 510
 2016-11-23T04:35:05+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '<' not found  in /var/www/localmagento/lib/Varien/Simplexml/Config.php on line 510
+2016-12-13T09:10:40+00:00 ERR (3): Warning: include(Alanstormdotcom/Weblog/Model/Blogpost.php): failed to open stream: No such file or directory  in /var/www/localmagento/lib/Varien/Autoload.php on line 93
+2016-12-13T09:10:40+00:00 ERR (3): Warning: include(): Failed opening 'Alanstormdotcom/Weblog/Model/Blogpost.php' for inclusion (include_path='/var/www/localmagento/app/code/local:/var/www/localmagento/app/code/community:/var/www/localmagento/app/code/core:/var/www/localmagento/lib:.:/usr/share/php:/usr/share/pear')  in /var/www/localmagento/lib/Varien/Autoload.php on line 93
+2016-12-13T09:52:43+00:00 ERR (3): Notice: Undefined index: id  in /var/www/localmagento/app/code/local/Alanstormdotcom/Weblog/controllers/IndexController.php on line 9
+2016-12-13T09:52:43+00:00 ERR (3): Notice: Undefined index: id  in /var/www/localmagento/app/code/local/Alanstormdotcom/Weblog/controllers/IndexController.php on line 10
+2016-12-13T10:01:05+00:00 ERR (3): Notice: Undefined index: id  in /var/www/localmagento/app/code/local/Alanstormdotcom/Weblog/controllers/IndexController.php on line 9
+2016-12-13T10:01:05+00:00 ERR (3): Notice: Undefined index: id  in /var/www/localmagento/app/code/local/Alanstormdotcom/Weblog/controllers/IndexController.php on line 10
