@@ -8,8 +8,8 @@ class Alanstormdotcom_Weblog_IndexController extends Mage_Core_Controller_Front_
 		$blogpost = Mage::getModel('weblog/blogpost');
 		echo("Loading the blogpost with an ID of ".$params['id']);
 		$blogpost->load($params['id']);
-		//$blogpost->setTitle('Code Post!');
-		$data = $blogpost->getTitle();
+		$blogpost->setTitle('Code Post!');  
+		$data = $blogpost->getTitle();  //you can gettitle if you didn't settitle.
 		var_dump($data);
 	}
 	public function createNewPostAction() {
